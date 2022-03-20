@@ -1,4 +1,4 @@
-# Rails Getting Start
+# Rails Getting Start fro beginner
 
 ## Tutorials
 
